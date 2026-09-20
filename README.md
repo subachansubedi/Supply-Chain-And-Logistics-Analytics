@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Images/brand.png" alt="Samsung Supply Chain Analytics" width="52%">
+<img src="Images/samsung_supply_chain_banner.png" alt="Samsung Supply Chain Analytics" width="100%">
 
 # 🚚 Supply Chain & Logistics Analytics
 
@@ -35,10 +35,6 @@
 <a href="Sql%20File/business_insight_queries.sql">
   <img src="https://img.shields.io/badge/🔎%20EXPLORE%20SQL-111827?style=for-the-badge" alt="Explore SQL">
 </a>
-
-<br>
-
-**Power BI** · **Python** · **SQL** · **DAX** · **Power Query** · **Star Schema** · **Business Intelligence**
 
 <sub>Portfolio project by <b>Subachan Subedi</b></sub>
 
