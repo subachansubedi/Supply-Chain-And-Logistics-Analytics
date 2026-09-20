@@ -24,7 +24,7 @@
 
 <br>
 
-<a href="Dashboard%20Pdf/dashboard.pdf">
+<a href="Dashboard%20Pdf/Dashboard.pdf">
   <img src="https://img.shields.io/badge/📊%20VIEW%20DASHBOARD-111827?style=for-the-badge" alt="View Dashboard">
 </a>
 &nbsp;
@@ -167,7 +167,7 @@ The Power BI report is designed as a **navigable analytical product**, not a col
 
 <br>
 
-<a href="Dashboard%20Pdf/dashboard.pdf">
+<a href="Dashboard%20Pdf/Dashboard.pdf">
   <img src="https://img.shields.io/badge/OPEN%20THE%20FULL%206--PAGE%20DASHBOARD%20PDF-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Open Dashboard PDF">
 </a>
 
@@ -673,7 +673,7 @@ Supply-Chain-And-Logistics-Analytics/
 │   └── 📄 SAMSUNG Supply Chain and Logistics Analytics Report.pdf
 │
 ├── 📂 Dashboard Pdf/
-│   └── 📊 dashboard.pdf
+│   └── 📊 Dashboard.pdf
 │
 ├── 📂 Dashboard SS/
 │   ├── 🏠 home.png
@@ -719,7 +719,7 @@ Supply-Chain-And-Logistics-Analytics/
 | | Resource | Description |
 |:---:|---|---|
 | 🖼️ | [`Dashboard SS/`](Dashboard%20SS/) | Screenshots for each Power BI report page |
-| 📊 | [`Dashboard Pdf/dashboard.pdf`](Dashboard%20Pdf/dashboard.pdf) | Complete six-page dashboard export |
+| 📊 | [`Dashboard Pdf/Dashboard.pdf`](Dashboard%20Pdf/Dashboard.pdf) | Complete six-page dashboard export |
 | ⚡ | [`Dashboard/Samsung_Dashboard`](Dashboard/Samsung_Dashboard) | Power BI dashboard artifact |
 | 🗃️ | [`Dataset/`](Dataset/) | Five dimension and five fact CSV tables |
 | ✅ | [`Sql File/validation_queries.sql`](Sql%20File/validation_queries.sql) | Independent dashboard KPI validation |
@@ -787,7 +787,7 @@ Supply-Chain-And-Logistics-Analytics/
 
 <br>
 
-<a href="Dashboard%20Pdf/dashboard.pdf">
+<a href="Dashboard%20Pdf/Dashboard.pdf">
   <img src="https://img.shields.io/badge/📊%20VIEW%20THE%20DASHBOARD-F2C811?style=for-the-badge&logoColor=000000" alt="View Dashboard">
 </a>
 &nbsp;
